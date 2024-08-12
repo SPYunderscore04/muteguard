@@ -1,0 +1,7 @@
+{
+    "name": "muteguard",
+    "creator": "SPYunderscore04",
+    "description": "ChatTriggers module for use on Hypixel -- Reduce the odds of getting muted by blocking/replacing evil messages",
+    "version": "0.1.0",
+    "entry": "ctjs-module.js"
+}
